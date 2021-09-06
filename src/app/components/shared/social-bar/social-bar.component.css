@@ -1,0 +1,38 @@
+.icon-bar {
+    position: fixed;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.icon-bar a {
+    display: block;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+    transition: all 0.3s ease;
+}
+
+.icon-bar a:hover {
+    background-color: black;
+}
+
+.facebook {
+    background-color: #3B5998;
+    color: white;
+}
+
+.twitter {
+    background-color: #55ACEE;
+    color: white;
+}
+
+.linkedin {
+    background-color: #007bb5;
+    color: white;
+}
+
+.github {
+    background-color: grey;
+    color: black;
+}
